@@ -1,0 +1,3 @@
+[submodule "JacocoCoverageExampleApp"]
+	path = JacocoCoverageExampleApp
+	url = https://github.com/hormunhin/JacocoCoverageExampleApp.git
